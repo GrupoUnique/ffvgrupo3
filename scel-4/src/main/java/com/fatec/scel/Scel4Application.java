@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ScelApplication {
+public class Scel4Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ScelApplication.class, args);
+		SpringApplication.run(Scel4Application.class, args);
 	}
 
 }
